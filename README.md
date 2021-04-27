@@ -1,1 +1,1 @@
-# intermediate-app-ideas
+# Tier 2: Intermediate Projects
